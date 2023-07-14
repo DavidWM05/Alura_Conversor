@@ -43,4 +43,4 @@ Realiza más de un programa de conversión, además de moneda, puede hacer de te
 ![vista general](/convertidor_vista3.png)
 ![vista general](/convertidor_vista4.png)
 
-### Nota: Se utilizo la moneda de 
+### Nota: La moneda de cambio utilizada es de la fecha 7 de julio del 2023
