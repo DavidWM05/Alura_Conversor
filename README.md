@@ -34,4 +34,13 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 Después de que el usuario haga clic en continuar en el programa, presente el cuadro de opciones de conversión para que pueda verificar otro valor en una moneda diferente.
 Realiza más de un programa de conversión, además de moneda, puede hacer de temperatura, kilometraje, años luz, entre otros.
 
+## Vista del programa
+
 ## Vista de la pagina
+
+![vista general](/convertidor_vista1.png)
+![vista general](/convertidor_vista2.png)
+![vista general](/convertidor_vista3.png)
+![vista general](/convertidor_vista4.png)
+
+### Nota: Se utilizo la moneda de 
