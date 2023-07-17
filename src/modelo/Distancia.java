@@ -78,7 +78,6 @@ public class Distancia implements ValidacionEntrada{
 
 	private int convertir(String medida,String cantidad,String medidaR) {
 		if(!cantidad.equals("nulo")) {
-			System.out.println(unidades.get(medida));
 			double total = Double.parseDouble(cantidad) * unidades.get(medida);
 			JOptionPane.showMessageDialog(null, "Total: "+ String.format("%.6f", total) +" " + medidaR);
 			
